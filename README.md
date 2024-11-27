@@ -89,17 +89,6 @@ Copy code
 
 ---
 
-### How to use this:
-
-1. **Replace `yourusername`** with your GitHub username in the repository URL section.
-2. **Replace the screenshot path** (`./assets/screenshots/rbac-dashboard.png`) with the actual path to your screenshot in the repo.
-3. **Dependencies**: Ensure that you list the correct dependencies if you're using libraries like `react-router-dom`, `axios`, or any other additional libraries.
-4. **Add or Remove Sections**: If your project has additional features or details, feel free to modify the sections accordingly.
-
-Once you're done, you can add this `README.md` file to the root of your GitHub repository and push it.
-
-Let me know if you need further adjustments!
-
 
 
 
