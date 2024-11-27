@@ -1,6 +1,0 @@
-{  
-  "users": [  
-    { "id": 1, "name": "Alice Johnson", "email": "alice@example.com", "role": "Admin", "status": "Active", "lastLogin": "2024-11-25" },  
-    { "id": 2, "name": "Bob Smith", "email": "bob@example.com", "role": "User", "status": "Inactive", "lastLogin": "2024-11-20" }  
-  ]  
-}  
