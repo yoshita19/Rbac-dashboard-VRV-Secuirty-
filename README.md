@@ -1,3 +1,5 @@
+![Alt text](https://github.com/yoshita19/Rbac-dashboard-VRV-Secuirty-/blob/main/Model.webp)
+
 # Rbac-dashboard-VRV-Secuirty-
 
 A React-based Role-Based Access Control (RBAC) dashboard for managing users and their roles. The application provides a user interface that allows administrators to view, add, and manage users and their assigned roles.
